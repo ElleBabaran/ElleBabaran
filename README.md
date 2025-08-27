@@ -1,8 +1,7 @@
-<!-- 🌸 Cute Anime Banner -->
-<p align="center">
-  <img src="https://media.tenor.com/bVq72FzmiBAAAAAd/1.gif" width="300px" alt="Sawako Kuronuma GIF" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=I'm+Pamela+Babaran;2nd+Year+BSCS+ML+Student;Learning+Python+and+Java" alt="Typing SVG" />
+</p>
 
 # 💫 About Me:
 👋 Hi, I'm **Elle**! <br><br>
