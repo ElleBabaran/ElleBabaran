@@ -1,10 +1,51 @@
-# 💫 About Me:
-👋 Hi, I'm Elle!<br><br>🌺2nd Year BS Computer Science student<br>💻 Currently learning Python, Java, and more<br>🌱 Exploring Machine Learning, NLP , and Web Development<br>🌼Passionate about problem-solving, clean code, and building cool projects
+<!-- 🌸 Cute Anime Banner -->
+<p align="center">
+  <img src="https://media.tenor.com/bVq72FzmiBAAAAAd/1.gif" width="300px" alt="Sawako Kuronuma GIF" />
+</p>
 
+
+# 💫 About Me:
+👋 Hi, I'm **Elle**! <br><br>
+🌺 2nd Year BS Computer Science student <br>
+💻 Currently learning **Python, Java, and more** <br>
+🌱 Exploring **Machine Learning, NLP, and Web Development** <br>
+🌸 Passionate about **problem-solving, clean code, and building cool projects** <br>
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/elle-babaran-43a116334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pamelababaran4@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elle-babaran-43a116334) 
+[![Email](https://img.shields.io/badge/Email-FFB6C1?style=flat&logo=gmail&logoColor=white)](mailto:pamelababaran4@gmail.com) 
+
+---
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFC0CB?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FADADD?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-FADADD?style=flat&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-FFC0CB?style=flat&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFB6C1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFC0CB?style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-FF69B4?style=flat&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFB6C1?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-FFC0CB?style=flat&logo=canva&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FADADD?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-FFB6C1?style=flat&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC0CB?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF69B4?style=flat&logo=pytorch&logoColor=white)
 
+---
+
+## 🌸 Fun Facts:
+☕ Coffee + Coding = Happiness <br>
+💡 Dreaming of becoming an **AI Engineer** and building impactful projects <br>
+🍓 Aesthetic learner who loves **mixing tech + creativity** <br>
+
+---
+
+<!-- 🌸 Another Cute Divider -->
+<img src="https://i.pinimg.com/originals/c3/11/f8/c311f87d7eec7b49f1b373a64c6d73e5.gif" width="100%" />
