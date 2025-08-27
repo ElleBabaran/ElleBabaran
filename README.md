@@ -24,7 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FADADD?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-FADADD?style=flat&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-FFC0CB?style=flat&logo=vue.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FFB6C1?style=flat&logo=mysql&logoColor=white)
