@@ -39,7 +39,8 @@
 ---
 
 ## 🌸 Fun Facts:
-☕ Coffee + Coding = Happiness <br>
+☕ I'm an ISFP<br>
+🍰 Dreamy Piscean<br>
 💡 Dreaming of becoming an **AI Engineer** and building impactful projects <br>
 🍓 Aesthetic learner who loves **mixing tech + creativity** <br>
 
