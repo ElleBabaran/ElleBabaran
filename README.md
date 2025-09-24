@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=I'm+Pamela+Babaran;2nd+Year+BSCS-ML+Student;Learning+Python+and+Java;I+love:;Shiguang;More+than+my+life😭😭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=I'm+Pamela+Babaran;2nd+Year+BSCS-ML+Student;Currently+learning+Python+and+Java;" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
